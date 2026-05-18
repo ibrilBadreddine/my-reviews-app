@@ -1,7 +1,7 @@
 {
   "blocks": {
     "reviews": {
-      "label": "My reviews",
+      "label": "My reviews app",
       "settings": {
         "widget": {
           "label": "Widget",
